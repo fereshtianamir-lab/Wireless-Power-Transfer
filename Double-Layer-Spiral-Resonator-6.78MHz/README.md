@@ -17,7 +17,7 @@ A small non-resonant excitation loop drives the double-layer spiral, which is tu
 | Excitation loop | Radius 10 mm, width 3 mm |
 | Tuning capacitor | 75.6 pF (lumped RLC) |
 | Excitation | 50 Ω lumped port on the excitation loop |
-| Frequency range | 6.78 MHz (HF ISM); sweeps 6–8 MHz and 0.1–25 MHz; one design sweeps 5–500 MHz to find self-resonance |
+| Frequency | 6.78 MHz|
 | Design variants | Single coil without loop; coil with excitation loop; Tx–Rx link of two coils |
 | Year of design | 2016 (ANSYS Electronics Desktop 2016 R2) |
 
