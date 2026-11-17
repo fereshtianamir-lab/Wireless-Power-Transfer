@@ -16,7 +16,7 @@ Each board stacks a low-frequency multi-turn spiral and a high-frequency spiral 
 | 200 kHz coil (bottom) | Circular spiral, 18 turns, outer Ø 100 mm, inner Ø 28 mm, trace 1 mm, pitch 2 mm |
 | Link | Identical Tx and Rx boards, 20 mm apart |
 | Excitation | 6 lumped ports (coil feeds and capacitor positions) |
-| Frequency | (200 kHz and 6.78 MHz bands) |
+| Frequency | 200 kHz and 6.78 MHz bands |
 | Design variants | Full dual-band Tx/Rx link; single Tx (Rx) coil|
 | Year of design | 2018 (ANSYS Electronics Desktop 2017) |
 
