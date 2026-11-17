@@ -1,4 +1,4 @@
-# Planar Spiral Wire Coils for Wireless Power Transfer (HFSS)
+# Planar Spiral Wire Coils 13.56 MHz (HFSS)
 
 [← Back to Wireless Power Transfer](../README.md)
 
