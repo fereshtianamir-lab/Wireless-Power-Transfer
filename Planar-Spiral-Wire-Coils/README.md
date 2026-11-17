@@ -18,7 +18,7 @@ The project compares three coil geometries and spacings to study self-resonance,
 | Wire diameter | 1.05 mm | 1.12 mm | 1.12 mm |
 | Tx–Rx spacing | 15 mm | 10 mm | 50 mm |
 | Excitation | 50 Ω lumped port, radiation boundary | same | same |
-| Frequency range | Adaptive mesh at 30 MHz (HF) | Sweep 1–35 MHz | Sweep 10–16 MHz |
+| Frequency| 13.56 MHz (HF)|
 | Year of design | 2017 (HFSS 15) | | |
 
 ## Source file (download to simulate)
