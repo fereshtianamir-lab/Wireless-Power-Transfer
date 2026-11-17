@@ -2,6 +2,15 @@
 
 [← Back to Wireless Power Transfer](../README.md)
 
+## Demo videos
+
+<table>
+<tr>
+<td align="center"><a href="../Videos/wpt_mobile_phone_charging.mp4"><img src="../Videos/wpt_mobile_phone_charging.gif" width="320" alt="Mobile phone charging demo"></a><br><sub><a href="../Videos/wpt_mobile_phone_charging.mp4">Wireless charging of a mobile phone (MP4)</a></sub></td>
+<td align="center"><a href="../Videos/wpt_led_load.mp4"><img src="../Videos/wpt_led_load.gif" width="320" alt="LED load demo"></a><br><sub><a href="../Videos/wpt_led_load.mp4">Powering an LED load (MP4)</a></sub></td>
+</tr>
+</table>
+
 ## Dual-layer receiver coil for a mobile charger
 
 ![Dual-layer receiver coil](dual_layer_receiver_coil_mobile_charger.png)
