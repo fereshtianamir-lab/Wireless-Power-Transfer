@@ -15,7 +15,7 @@ Coil designs for inductive and resonant wireless power transfer (Qi ~200 kHz, Ai
 
 | Model | Type | Frequency (band) | Year |
 |---|---|---|---|
-| [Planar spiral wire coils](Planar-Spiral-Wire-Coils/) | Wire coil pairs, 3 designs | 1–35 MHz (HF) | 2017 |
+| [Planar spiral wire coils](Planar-Spiral-Wire-Coils/) | Wire coil pairs, 3 designs | 13.56 MHz (ISM) | 2017 |
 | [Double-layer spiral resonator](Double-Layer-Spiral-Resonator-6.78MHz/) | PCB resonator + excitation loop | 6.78 MHz (ISM) | 2016 |
 | [Dual-band coils 200 kHz / 6.78 MHz](Dual-Band-Coils-200kHz-6.78MHz/) | Qi + AirFuel PCB coils | 0.2 / 6.78 MHz | 2018 |
 | [Dual-band coils 6.78 / 13.56 MHz](Dual-Band-Coils-6.78-13.56MHz/) | Dual HF ISM PCB coils | 6.78 / 13.56 MHz | 2018 |
@@ -33,7 +33,7 @@ Coil designs for inductive and resonant wireless power transfer (Qi ~200 kHz, Ai
 ### Fabricated prototypes and measurements
 
 <table>
-<tr><td align="center"><a href="Media/dual_layer_receiver_coil_mobile_charger.png"><img src="Media/dual_layer_receiver_coil_mobile_charger.png" width="240" alt="Dual-layer receiver coil for a mobile charger"></a><br><sub>Dual-layer receiver coil for a mobile charger</sub></td><td align="center"><a href="Media/wpt_measurement_setup.png"><img src="Media/wpt_measurement_setup.png" width="240" alt="Spiral coil link measurement setup (VNA)"></a><br><sub>Spiral coil link measurement setup (VNA)</sub></td><td align="center"><a href="Media/four_coil_mr_wpt_1mhz_measurement.jpg"><img src="Media/four_coil_mr_wpt_1mhz_measurement.jpg" width="240" alt="Four-coil MR-WPT link, ~1 MHz (FieldFox VNA)"></a><br><sub>Four-coil MR-WPT link, ~1 MHz (FieldFox VNA)</sub></td></tr>
+<tr><td align="center"><a href="Media/dual_layer_receiver_coil_mobile_charger.png"><img src="Media/dual_layer_receiver_coil_mobile_charger.png" width="240" alt="Dual-layer receiver coil for a mobile charger"></a><br><sub>Dual-layer receiver coil for a mobile charger</sub></td><td align="center"><a href="Media/wpt_measurement_setup.png"><img src="Media/wpt_measurement_setup.png" width="240" alt="Spiral coil link measurement setup (VNA)"></a><br><sub>Spiral coil link measurement setup (VNA)</sub></td><td align="center"><a href="Media/four_coil_mr_wpt_1mhz_measurement.jpg"><img src="Media/four_coil_mr_wpt_1mhz_measurement.jpg" width="240" alt="Four-coil MR-WPT link, 6.78 MHz (FieldFox VNA)"></a><br><sub>Four-coil MR-WPT link, 6.78 MHz (FieldFox VNA)</sub></td></tr>
 </table>
 
 ## Download and simulate
