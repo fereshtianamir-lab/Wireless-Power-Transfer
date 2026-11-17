@@ -15,19 +15,19 @@ Coil designs for inductive and resonant wireless power transfer (Qi ~200 kHz, Ai
 
 | Model | Type | Frequency (band) | Year |
 |---|---|---|---|
-| [Planar spiral wire coils](Planar-Spiral-Wire-Coils/) | Wire coil pairs, 3 designs | 13.56 MHz (ISM) | 2017 |
+| [Planar spiral wire coils](Planar-Spiral-Wire-Coils-13.56MHz/) | Wire coil pairs, 3 designs | 13.56 MHz (ISM) | 2017 |
 | [Double-layer spiral resonator](Double-Layer-Spiral-Resonator-6.78MHz/) | PCB resonator + excitation loop | 6.78 MHz (ISM) | 2016 |
 | [Dual-band coils 200 kHz / 6.78 MHz](Dual-Band-Coils-200kHz-6.78MHz/) | Qi + AirFuel PCB coils | 0.2 / 6.78 MHz | 2018 |
 | [Dual-band coils 6.78 / 13.56 MHz](Dual-Band-Coils-6.78-13.56MHz/) | Dual HF ISM PCB coils | 6.78 / 13.56 MHz | 2018 |
-| [Spiral coils for MR-WPT, ~1 MHz](Spiral-Coils-MR-WPT-1MHz/) | 4-coil magnetic-resonance link, spiral resonators | 0.5–1.5 MHz (MF) | 2018 |
+| [Spiral coils for MR-WPT, ~1 MHz](Spiral-Coils-1MHz/) | 4-coil magnetic-resonance link, spiral resonators | 0.5–1.5 MHz (MF) | 2018 |
 
 ## Gallery
 
 ### Simulation models (HFSS)
 
 <table>
-<tr><td align="center"><a href="Planar-Spiral-Wire-Coils/"><img src="Planar-Spiral-Wire-Coils/coils_3d.png" width="240" alt="Planar spiral wire coils"></a><br><sub><a href="Planar-Spiral-Wire-Coils/">Planar spiral wire coils</a></sub></td><td align="center"><a href="Double-Layer-Spiral-Resonator-6.78MHz/"><img src="Double-Layer-Spiral-Resonator-6.78MHz/coil_top_view.png" width="240" alt="Double-layer spiral resonator"></a><br><sub><a href="Double-Layer-Spiral-Resonator-6.78MHz/">Double-layer spiral resonator</a></sub></td><td align="center"><a href="Dual-Band-Coils-200kHz-6.78MHz/"><img src="Dual-Band-Coils-200kHz-6.78MHz/coils_layout.png" width="240" alt="Dual-band coils 200 kHz / 6.78 MHz"></a><br><sub><a href="Dual-Band-Coils-200kHz-6.78MHz/">Dual-band coils 200 kHz / 6.78 MHz</a></sub></td></tr>
-<tr><td align="center"><a href="Dual-Band-Coils-6.78-13.56MHz/"><img src="Dual-Band-Coils-6.78-13.56MHz/coils_layout.png" width="240" alt="Dual-band coils 6.78 / 13.56 MHz"></a><br><sub><a href="Dual-Band-Coils-6.78-13.56MHz/">Dual-band coils 6.78 / 13.56 MHz</a></sub></td><td align="center"><a href="Spiral-Coils-MR-WPT-1MHz/"><img src="Spiral-Coils-MR-WPT-1MHz/coil_structure.png" width="240" alt="Spiral coils for MR-WPT, ~1 MHz"></a><br><sub><a href="Spiral-Coils-MR-WPT-1MHz/">Spiral coils for MR-WPT, ~1 MHz</a></sub></td></tr>
+<tr><td align="center"><a href="Planar-Spiral-Wire-Coils-13.56MHz/"><img src="Planar-Spiral-Wire-Coils-13.56MHz/coils_3d.png" width="240" alt="Planar spiral wire coils"></a><br><sub><a href="Planar-Spiral-Wire-Coils-13.56MHz/">Planar spiral wire coils</a></sub></td><td align="center"><a href="Double-Layer-Spiral-Resonator-6.78MHz/"><img src="Double-Layer-Spiral-Resonator-6.78MHz/coil_top_view.png" width="240" alt="Double-layer spiral resonator"></a><br><sub><a href="Double-Layer-Spiral-Resonator-6.78MHz/">Double-layer spiral resonator</a></sub></td><td align="center"><a href="Dual-Band-Coils-200kHz-6.78MHz/"><img src="Dual-Band-Coils-200kHz-6.78MHz/coils_layout.png" width="240" alt="Dual-band coils 200 kHz / 6.78 MHz"></a><br><sub><a href="Dual-Band-Coils-200kHz-6.78MHz/">Dual-band coils 200 kHz / 6.78 MHz</a></sub></td></tr>
+<tr><td align="center"><a href="Dual-Band-Coils-6.78-13.56MHz/"><img src="Dual-Band-Coils-6.78-13.56MHz/coils_layout.png" width="240" alt="Dual-band coils 6.78 / 13.56 MHz"></a><br><sub><a href="Dual-Band-Coils-6.78-13.56MHz/">Dual-band coils 6.78 / 13.56 MHz</a></sub></td><td align="center"><a href="Spiral-Coils-1MHz/"><img src="Spiral-Coils-1MHz/coil_structure.png" width="240" alt="Spiral coils for MR-WPT, ~1 MHz"></a><br><sub><a href="Spiral-Coils-1MHz/">Spiral coils for MR-WPT, ~1 MHz</a></sub></td></tr>
 </table>
 
 ### Fabricated prototypes and measurements
@@ -44,11 +44,11 @@ Open a project file (`.aedt` or `.hfss`) on GitHub and click **Download raw file
 
 ```
 Wireless-Power-Transfer/
-├── Planar-Spiral-Wire-Coils/
+├── Planar-Spiral-Wire-Coils-13.56MHz/
 ├── Double-Layer-Spiral-Resonator-6.78MHz/
 ├── Dual-Band-Coils-200kHz-6.78MHz/
 ├── Dual-Band-Coils-6.78-13.56MHz/
-├── Spiral-Coils-MR-WPT-1MHz/
+├── Spiral-Coils-1MHz/
 └── Media/   (demo videos and prototype photos)
 ```
 
