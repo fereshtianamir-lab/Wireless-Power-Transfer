@@ -4,7 +4,7 @@ Coil designs for inductive and resonant wireless power transfer (Qi ~200 kHz, Ai
 
 | Model | Type | Frequency (band) | Year |
 |---|---|---|---|
-| [Flat spiral wire coils](Flat-Spiral-Wire-Coils/) | Wire coil pairs, 3 designs | 1–35 MHz (HF) | 2017 |
+| [Planar spiral wire coils](Planar-Spiral-Wire-Coils/) | Wire coil pairs, 3 designs | 1–35 MHz (HF) | 2017 |
 | [Double-layer spiral resonator](Double-Layer-Spiral-Resonator-6.78MHz/) | PCB resonator + excitation loop | 6.78 MHz (ISM) | 2016 |
 | [Dual-band coils 200 kHz / 6.78 MHz](Dual-Band-Coils-200kHz-6.78MHz/) | Qi + AirFuel PCB coils | 0.2 / 6.78 MHz | 2018 |
 | [Dual-band coils 6.78 / 13.56 MHz](Dual-Band-Coils-6.78-13.56MHz/) | Dual HF ISM PCB coils | 6.78 / 13.56 MHz | 2018 |
@@ -13,7 +13,7 @@ Coil designs for inductive and resonant wireless power transfer (Qi ~200 kHz, Ai
 ## Gallery
 
 <table>
-<tr><td align="center"><a href="Flat-Spiral-Wire-Coils/"><img src="Flat-Spiral-Wire-Coils/coils_3d.png" width="240" alt="Flat spiral wire coils"></a><br><sub><a href="Flat-Spiral-Wire-Coils/">Flat spiral wire coils</a></sub></td><td align="center"><a href="Double-Layer-Spiral-Resonator-6.78MHz/"><img src="Double-Layer-Spiral-Resonator-6.78MHz/coil_top_view.png" width="240" alt="Double-layer spiral resonator"></a><br><sub><a href="Double-Layer-Spiral-Resonator-6.78MHz/">Double-layer spiral resonator</a></sub></td><td align="center"><a href="Dual-Band-Coils-200kHz-6.78MHz/"><img src="Dual-Band-Coils-200kHz-6.78MHz/coils_layout.png" width="240" alt="Dual-band coils 200 kHz / 6.78 MHz"></a><br><sub><a href="Dual-Band-Coils-200kHz-6.78MHz/">Dual-band coils 200 kHz / 6.78 MHz</a></sub></td></tr>
+<tr><td align="center"><a href="Planar-Spiral-Wire-Coils/"><img src="Planar-Spiral-Wire-Coils/coils_3d.png" width="240" alt="Planar spiral wire coils"></a><br><sub><a href="Planar-Spiral-Wire-Coils/">Planar spiral wire coils</a></sub></td><td align="center"><a href="Double-Layer-Spiral-Resonator-6.78MHz/"><img src="Double-Layer-Spiral-Resonator-6.78MHz/coil_top_view.png" width="240" alt="Double-layer spiral resonator"></a><br><sub><a href="Double-Layer-Spiral-Resonator-6.78MHz/">Double-layer spiral resonator</a></sub></td><td align="center"><a href="Dual-Band-Coils-200kHz-6.78MHz/"><img src="Dual-Band-Coils-200kHz-6.78MHz/coils_layout.png" width="240" alt="Dual-band coils 200 kHz / 6.78 MHz"></a><br><sub><a href="Dual-Band-Coils-200kHz-6.78MHz/">Dual-band coils 200 kHz / 6.78 MHz</a></sub></td></tr>
 <tr><td align="center"><a href="Dual-Band-Coils-6.78-13.56MHz/"><img src="Dual-Band-Coils-6.78-13.56MHz/coils_layout.png" width="240" alt="Dual-band coils 6.78 / 13.56 MHz"></a><br><sub><a href="Dual-Band-Coils-6.78-13.56MHz/">Dual-band coils 6.78 / 13.56 MHz</a></sub></td><td align="center"><a href="Fabricated-Prototypes/"><img src="Fabricated-Prototypes/dual_layer_receiver_coil_mobile_charger.png" width="240" alt="Fabricated prototypes"></a><br><sub><a href="Fabricated-Prototypes/">Fabricated prototypes</a></sub></td></tr>
 </table>
 
@@ -25,7 +25,7 @@ Open a project file (`.aedt` or `.hfss`) on GitHub and click **Download raw file
 
 ```
 Wireless-Power-Transfer/
-├── Flat-Spiral-Wire-Coils/
+├── Planar-Spiral-Wire-Coils/
 ├── Double-Layer-Spiral-Resonator-6.78MHz/
 ├── Dual-Band-Coils-200kHz-6.78MHz/
 ├── Dual-Band-Coils-6.78-13.56MHz/
