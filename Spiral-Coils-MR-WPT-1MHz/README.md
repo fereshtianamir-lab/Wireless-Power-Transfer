@@ -3,7 +3,6 @@
 [← Back to Wireless Power Transfer](../README.md)
 
 ![Coil structure](coil_structure.png)
-![Measurement setup](measurement_setup.jpg)
 
 **Application:** Mid-range wireless power transfer with strongly coupled magnetic resonators, using flat spiral coils for charging and powering devices over distances of tens of centimetres.
 The measured setup uses four coils (drive loop, Tx resonator, Rx resonator, load loop) to extend the transfer distance.
@@ -16,7 +15,7 @@ The measured setup uses four coils (drive loop, Tx resonator, Rx resonator, load
 | Simulated links | Two identical coils at d = 75 mm and d = 250 mm; one variant adds a 50 × 50 mm printed receiver coil (trace 2.4 mm, gap 0.5 mm) |
 | Excitation | Lumped ports on the coil feeds, radiation boundary |
 | Frequency range | 0.5–1.5 MHz for the coupled links (LF/MF); 1–40 MHz sweeps and an eigenmode solution for coil self-resonance |
-| Measurement (photo) | Four-coil link: drive loop–Tx 30 mm, Tx–Rx 200 mm, Rx–load loop 30 mm, measured with a Keysight FieldFox VNA |
+| Measurement | [Photo in Fabricated-Prototypes](../Fabricated-Prototypes/#four-coil-magnetic-resonance-link-1-mhz). Four-coil link: drive loop–Tx 30 mm, Tx–Rx 200 mm, Rx–load loop 30 mm, measured with a Keysight FieldFox VNA |
 | Year of design | 2018 (ANSYS Electronics Desktop 2017) |
 
 ## Source file (download to simulate)
