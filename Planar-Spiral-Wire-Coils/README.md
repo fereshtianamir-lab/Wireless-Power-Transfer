@@ -4,7 +4,7 @@
 
 ![Three coil-pair designs](coils_3d.png)
 
-**Application:** Coupled planar spiral coils (transmitter and receiver) for resonant inductive wireless power transfer in the HF range.
+**Application:** Coupled Planar spiral coils (transmitter and receiver) for resonant inductive wireless power transfer in the HF range.
 The project compares three coil geometries and spacings to study self-resonance, mutual coupling and transfer efficiency.
 
 ## Specifications
@@ -25,6 +25,6 @@ The project compares three coil geometries and spacings to study self-resonance,
 
 | File | Description |
 |---|---|
-| [`flat_spiral_wire_coils.hfss`](flat_spiral_wire_coils.hfss) | Legacy HFSS project with the three designs |
+| [`Planar_spiral_wire_coils.hfss`](Planar_spiral_wire_coils.hfss) | Legacy HFSS project with the three designs |
 
 Open with ANSYS HFSS / Electronics Desktop. The geometry uses the ACIS kernel, so AEDT 2025 R1 and later cannot open it directly: open and save it once in AEDT 2024 R2 (or earlier) to convert it to Parasolid. Simulation results are not included; re-run the analysis setups to regenerate them.
