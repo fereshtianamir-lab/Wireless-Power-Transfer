@@ -14,7 +14,7 @@ The measured setup uses four coils (drive loop, Tx resonator, Rx resonator, load
 | Resonator coil | Flat circular spiral, 5 turns, outer Ø 150 mm, pitch 4 mm (5–6 mm in early variants), copper conductor 1.4 mm |
 | Simulated links | Two identical coils at d = 75 mm and d = 250 mm; one variant adds a 50 × 50 mm printed receiver coil (trace 2.4 mm, gap 0.5 mm) |
 | Excitation | Lumped ports on the coil feeds, radiation boundary |
-| Frequency range | 0.5–1.5 MHz for the coupled links (LF/MF); 1–40 MHz sweeps and an eigenmode solution for coil self-resonance |
+| Frequency | 1 MHz|
 | Measurement | [Photo in Fabricated-Prototypes](../Fabricated-Prototypes/#four-coil-magnetic-resonance-link-1-mhz). Four-coil link: drive loop–Tx 30 mm, Tx–Rx 200 mm, Rx–load loop 30 mm, measured with a Keysight FieldFox VNA |
 | Year of design | 2018 (ANSYS Electronics Desktop 2017) |
 
