@@ -2,6 +2,17 @@
 
 Coil designs for inductive and resonant wireless power transfer (Qi ~200 kHz, AirFuel 6.78 MHz and 13.56 MHz ISM), simulated in ANSYS HFSS, plus photos of fabricated prototypes. Each model folder has a structure image, a README with full specifications, and the original HFSS project file so you can download it and re-run the simulation.
 
+## Demo videos
+
+<table>
+<tr>
+<td align="center" width="50%"><a href="Videos/wpt_mobile_phone_charging.mp4"><img src="Videos/wpt_mobile_phone_charging.gif" width="360" alt="WPT setup charging a mobile phone"></a><br><b>Wireless charging of a mobile phone</b><br><sub><a href="Videos/wpt_mobile_phone_charging.mp4">▶ Full video (MP4)</a></sub></td>
+<td align="center" width="50%"><a href="Videos/wpt_led_load.mp4"><img src="Videos/wpt_led_load.gif" width="360" alt="WPT setup turning on an LED load"></a><br><b>Powering an LED load wirelessly</b><br><sub><a href="Videos/wpt_led_load.mp4">▶ Full video with sound (MP4)</a></sub></td>
+</tr>
+</table>
+
+## Models
+
 | Model | Type | Frequency (band) | Year |
 |---|---|---|---|
 | [Planar spiral wire coils](Planar-Spiral-Wire-Coils/) | Wire coil pairs, 3 designs | 1–35 MHz (HF) | 2017 |
@@ -31,7 +42,8 @@ Wireless-Power-Transfer/
 ├── Dual-Band-Coils-200kHz-6.78MHz/
 ├── Dual-Band-Coils-6.78-13.56MHz/
 ├── Spiral-Coils-MR-WPT-1MHz/
-└── Fabricated-Prototypes/
+├── Fabricated-Prototypes/
+└── Videos/
 ```
 
 See also: [RF-Antenna](https://github.com/fereshtianamir-lab/RF-Antenna) – antenna and transmission-line models in HFSS, CST and FEKO.
