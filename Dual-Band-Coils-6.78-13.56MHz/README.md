@@ -16,7 +16,7 @@ A 5-turn spiral and a single-turn loop share one board, so one pad can transfer 
 | 13.56 MHz coil (bottom) | Single-turn loop, outer Ø 100 mm, trace 2 mm |
 | Link | Identical Tx and Rx boards, 80 mm apart |
 | Excitation | 6 lumped ports (coil feeds and capacitor positions) |
-| Frequency range | 4–20 MHz (HF; 6.78 and 13.56 MHz ISM bands) |
+| Frequency | 6.78 and 13.56 MHz ISM bands |
 | Design variants | Full dual-band Tx/Rx link; single board |
 | Year of design | 2018 (ANSYS Electronics Desktop 2017) |
 
